@@ -1,0 +1,37 @@
+_repo: Morals-and-the-Evolution-of-Man_37998
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Lewenz, Marie Adèle
+    alias: Lewenz, Marie A.
+    birthdate: 1876
+    gutenberg_agent_id: '39185'
+    url: http://www.gutenberg.org/2009/agents/39185
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nordau, Max Simon
+    aliases:
+    - Sudfeld, Max Simon
+    - Südfeld, Max Simon
+    birthdate: 1849
+    deathdate: 1923
+    gutenberg_agent_id: '1408'
+    url: http://www.gutenberg.org/2009/agents/1408
+    wikipedia: http://en.wikipedia.org/wiki/Max_Nordau
+description: A Translation of "Biologie der Ethik."
+gutenberg_issued: '2011-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37998'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethics, Evolutionary'
+- !lcc 'BJ'
+title: Morals and the Evolution of Man
+url: http://www.gutenberg.org/ebooks/37998
